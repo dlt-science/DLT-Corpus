@@ -528,7 +528,7 @@ if __name__ == "__main__":
                         help='Path to the dataset')
 
     # Model arguments
-    parser.add_argument("--model_name", type=str, default="answerdotai/ModernBERT-base",
+    parser.add_argument("--model_name", type=str, default="allenai/scibert_scivocab_cased",
                         help="Pretrained model name or path")
 
     parser.add_argument("--tokenizer_name", type=str,
