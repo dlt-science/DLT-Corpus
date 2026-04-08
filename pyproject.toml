@@ -7,7 +7,7 @@ dependencies = [
     "pyyaml~=6.0.2",
     "transformers~=4.57.0",
     "datasets~=3.5.0",
-    "requests~=2.32.3",
+    "requests~=2.33.0",
     "huggingface-hub[cli]~=0.35.3",
     "scikit-learn==1.6.1",
     "pandas~=2.2.3",
