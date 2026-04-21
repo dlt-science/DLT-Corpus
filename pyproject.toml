@@ -33,7 +33,7 @@ dependencies = [
     "peft~=0.16.0",
     "pandas-stubs==2.3.0.250703",
     "fake-useragent>=2.2.0",
-    "lxml>=6.0.0",
+    "lxml>=6.1.0",
     "selenium>=4.34.2",
     "markitdown[html]>=0.1.2",
     "asyncio>=3.4.3",
